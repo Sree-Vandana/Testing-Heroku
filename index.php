@@ -1,0 +1,1 @@
+<?php header ( 'Location: /09-bootstrap-form.html' ); ?>
